@@ -115,5 +115,3 @@ If you like this software, consider making a donation to the developer. Thank yo
 - Discord: ``Zebratic#6969``
 
 Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-issue)
-
-
